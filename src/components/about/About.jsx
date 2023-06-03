@@ -8,7 +8,7 @@ const About = () => {
   return (
       <section className="about section" id="about">
           <h2 className="section_title">About Me</h2>
-          <span className="section_subtitle">I am a First Generation Vietnamese-American College Student.</span>
+          <span className="section_subtitle">Introduction</span>
 
           <div className="about_container container grid">
               <img src={ProfileImg} alt="" className="about_img" />
