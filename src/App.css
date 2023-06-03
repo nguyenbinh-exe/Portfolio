@@ -159,10 +159,6 @@ img {
   }
 }
 
-@media screen and (max-width: 576px) {
-
-}
-
 /* Small Devices */
 @media screen and (max-width: 350px) {
   :root {

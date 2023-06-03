@@ -38,9 +38,9 @@ const Header = () => {
                             </a>
                         </li>
                         <li className="nav_item">
-                            <a href="#portfolio" className="nav_link active_link">
+                            <a href="#projects" className="nav_link active_link">
                                 <i className="uil uil-scenery nav_icon"></i>
-                                Portfolio
+                                Projects
                             </a>
                         </li>
                         <li className="nav_item">
