@@ -14,10 +14,10 @@ const Footer = () => {
                 <a href="#skills" className="footer_link">Skills</a>
             </li>
             <li>
-                <a href="#experience" className="footer_link">Experience</a>
+                <a href="#projects" className="footer_link">Projects</a>
             </li>
             <li>
-                <a href="#projects" className="footer_link">Projects</a>
+                <a href="#experience" className="footer_link">Timeline</a>
             </li>
 
         </ul>
