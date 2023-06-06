@@ -39,7 +39,7 @@ const Projects = () => {
                             </li>
                             <li className="projects_model-project">
                                 <i className="uil uil-check-circle projects_model-icon"/>
-                                <p className="projects_model-info">Bootstrap</p>
+                                <p className="projects_model-info">Bootstrap CSS</p>
                             </li>
                             <li className="projects_model-project">
                                 <i className="uil uil-check-circle projects_model-icon"/>
@@ -64,7 +64,7 @@ const Projects = () => {
                     <div className="projects_model-content">
                         <i onClick={() => toggleTab(0)} className="uil uil-times projects_model-close"></i>
                         <h3 className="projects_model-title"><i className="uil uil-user"></i> Personal CV</h3>
-                        <p className="projects_model-description">A personal and first ReactJS project to create and deploy a responsive personal portfolio website.</p>
+                        <p className="projects_model-description">A personal ReactJS project to create and deploy a fully responsive personal portfolio website.</p>
 
                         <ul className="projects_model-projects grid">
                             <li className="projects_model-project">

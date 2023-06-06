@@ -9,7 +9,7 @@ const Social = () => {
             <a href="https://github.com/nguyenbinh-exe" className="home_social" target="_blank">
                 <i className="uil uil-github home_social_icon"></i>
             </a>
-            <a href="" className="home_social" target="_blank">
+            <a href="#contact" className="home_social">
                 <i className="uil uil-envelope home_social_icon"></i>
             </a>
         </div>
