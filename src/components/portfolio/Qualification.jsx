@@ -7,7 +7,7 @@ const Qualification = () => {
         setToggleState(index)
     };
     return (
-        <section className="qualification section">
+        <section className="qualification section" id="timeline">
             <h2 className="section_title">Timeline</h2>
             <span className="section_subtitle">My journey</span>
 
@@ -88,7 +88,7 @@ const Qualification = () => {
                                 <h3 className="qualification_title">Simon Game</h3>
                                 <span className="qualification_subtitle">Web Development</span>
                                 <div className="qualification_calendar">
-                                    <i className="uil uil-schedule" /> Nov 2023
+                                    <i className="uil uil-schedule" /> Nov 2022
                                 </div>
                             </div>
                         </div>

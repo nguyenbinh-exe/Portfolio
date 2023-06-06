@@ -17,9 +17,11 @@ const Footer = () => {
                 <a href="#projects" className="footer_link">Projects</a>
             </li>
             <li>
-                <a href="#experience" className="footer_link">Timeline</a>
+                <a href="#timeline" className="footer_link">Timeline</a>
             </li>
-
+            <li>
+                <a href="#contact" className="footer_link">Contact</a>
+            </li>
         </ul>
           <div className="footer_social">
               <a href="https://www.linkedin.com/in/nguyenbinh-exe/" className="footer_social-link" target="_blank">
