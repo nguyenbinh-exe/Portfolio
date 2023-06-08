@@ -5,7 +5,7 @@ const Info = () => {
       <div className="about_info grid">
           <div className="about_box">
               <h3 className="about_title">Education <i className="uil uil-graduation-cap"></i></h3>
-              <span className="about_subtitle">Expected Graduation in Dec. 2023</span>
+              <span className="about_subtitle">University of Houston</span>
           </div>
           <div className="about_box">
               <h3 className="about_title">Experience <i className="uil uil-award-alt"></i></h3>
