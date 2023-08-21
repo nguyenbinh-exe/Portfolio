@@ -22,14 +22,6 @@ const Contact = () => {
                   <h3 className="contact_title">Reach out to Me</h3>
                   <div className="contact_info">
                       <div className="contact_card">
-                          <i className='bx bxl-messenger contact_card-icon'></i>
-                          <h3 className="contact_card-title">Messenger</h3>
-                          <span className="contact_card-data"></span>
-                          <a href="mailto:nguyen.binhnl212@gmail.com" className="contact_button">
-                              Write to me <i className="bx bx-right-arrow-alt contact_button-icon"></i>
-                          </a>
-                      </div>
-                      <div className="contact_card">
                           <i className='bx bxl-github contact_card-icon'></i>
                           <h3 className="contact_card-title">GitHub</h3>
                           <span className="contact_card-data"></span>
