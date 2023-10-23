@@ -121,6 +121,37 @@ const Projects = () => {
                     </div>
                 </div>
             </div>
+
+            <div className="projects_content">
+                <div>
+                    <i className="uil uil-folder"></i>
+                    <h3 className="projects_title">iOS Weather App</h3>
+                </div>
+                <span className="projects_button" onClick={() => toggleTab(4)}>
+                    View <i className="uil uil-arrow-right projects_button-icon"></i>
+                </span>
+
+                <div className={toggleState === 4 ?
+                    "projects_model active-model" : "projects_model"}>
+                    <div className="projects_model-content">
+                        <i onClick={() => toggleTab(0)} className="uil uil-times projects_model-close"></i>
+                        <h3 className="projects_model-title"><i className="uil uil-user"></i> iOS Weather App</h3>
+                        <p className="projects_model-description">A personal SwiftUI project to display weather readings at user's current location.</p>
+
+                        <ul className="projects_model-projects grid">
+                            <li className="projects_model-project">
+                                <i className="uil uil-check-circle projects_model-icon"/>
+                                <p className="projects_model-info">SwiftUI</p>
+                            </li>
+                            <li className="projects_model-project">
+                                <i className="uil uil-check-circle projects_model-icon"/>
+                                <p className="projects_model-info">Open Weather API</p>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
         </div>
       </section>
   )

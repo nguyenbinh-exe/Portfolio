@@ -119,6 +119,19 @@ const Qualification = () => {
                                 </div>
                             </div>
                         </div>
+                        <div className="qualification_data">
+                            <div>
+                                <h3 className="qualification_title">iOS Weather App</h3>
+                                <span className="qualification_subtitle">iOS Development</span>
+                                <div className="qualification_calendar">
+                                    <i className="uil uil-schedule" /> Oct - Dec 2023
+                                </div>
+                            </div>
+                            <div>
+                                <span className="qualification_rounder"></span>
+                                <span className="qualification_line"></span>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
